@@ -1,2 +1,2 @@
 # PackagingTool
-Siimple webpack demo
+Simple webpack demo
