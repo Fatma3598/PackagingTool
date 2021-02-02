@@ -2,6 +2,7 @@
 Simple webpack demo
 
 Follow this steps to install required packages using npm:
+
 1- adding webapck to an app: npm install webpack webpack-cli webpack-dev-server -D
 2- loaders: npm i -D html-loader style-loader css-loader sass-loader sass file-loader 
 3- plugins: npm i -D html-webpack-plugin clean-webpack-plugin MiniCssExtractPlugin CssMinimizerPlugin
